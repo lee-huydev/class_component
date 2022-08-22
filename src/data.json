@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Huy",
+        "age": 28,
+        "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+        "country": "Viet Nam"
+    },
+    {
+        "name": "David",
+        "age": 29,
+        "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+        "country": "American"
+    },
+    {
+        "name": "Jack Thamson",
+        "age": 20,
+        "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+        "country": "American"
+    },
+    {
+        "name": "Tuan",
+        "age": 15,
+        "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+        "country": "Viet Nam"
+    },
+    {
+        "name": "Thanh",
+        "age": 17,
+        "avatar": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
+        "country": "Viet Nam"
+    }
+]
