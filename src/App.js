@@ -17,10 +17,10 @@ class App extends Component {
       return (
           <div className="app-container">
               <h1>Class List</h1>
-              <button className="btn btn-delete" onClick={this.handleDelete}>
+              <button onClick={this.handleDelete}>
                   Delete
               </button>
-              <button className="btn btn-add" onClick={this.handleImport}>
+              <button onClick={this.handleImport}>
                   Import Data
               </button>
               <div>
